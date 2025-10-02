@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: hotel-service
+
+server:
+  port: 8082
+
+custom:
+  message: "Hello from Hotel Service (GitHub config)!"
