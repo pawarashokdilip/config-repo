@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: rental-service
+
+server:
+  port: 8081
+
+custom:
+  message: "Hello from Rental Service (GitHub config)!"
